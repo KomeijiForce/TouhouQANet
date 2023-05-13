@@ -27,4 +27,4 @@ In addition, this project also includes a Touhou QA test set with 125 questions,
 
 # 标注/注釈/Annotation
 
-![Statistics](https://github.com/KomeijiForce/TouhouQANet/blob/main/TouhouQANet_Stats.png)
+![Statistics](https://github.com/KomeijiForce/TouhouQANet/blob/main/pipeline.png)
