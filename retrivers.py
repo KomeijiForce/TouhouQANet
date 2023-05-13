@@ -77,7 +77,6 @@ if __name__ == "__main__":
     print("****BM25****")
     print(retrieved)
     
-    query = "古明地恋为什么闭上了第三只眼？"
     retriever = RetrieverSBERT(qa_path="TouhouQANet.jsonl")
     retrieved = retriever.retrieve(query)
     print("****SBERT****")
