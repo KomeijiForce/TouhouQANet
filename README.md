@@ -18,3 +18,7 @@ In addition, this project also includes a Touhou QA test set with 125 questions,
 # Patching Performance
 
 ![Main Performance](https://github.com/KomeijiForce/TouhouQANet/blob/main/Patched_LLMs.png)
+
+# Statistics
+
+![Main Performance](https://github.com/KomeijiForce/TouhouQANet/blob/main/TouhouQANet_Stats.png)
