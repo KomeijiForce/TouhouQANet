@@ -1,6 +1,8 @@
 # 东方问答网络/東方QAネットワーク/TouhouQANet
 ![Instance](https://github.com/KomeijiForce/TouhouQANet/blob/main/instance.png)
 
+[知识图谱/知識グラフ/Knowledge Graph](https://github.com/KomeijiForce/TouhouQANet/blob/main/instance.png)
+
 这是一个基于(Chat)GPT-4和东方Project的知识库Thbwiki构建的知识图谱项目，包含了带有问题增强信息的边（元组），可以用于知识检索和为大模型打补丁。
 
 このプロジェクトは、東方Projectに基づいた(Chat)GPT-4とThbwikiの知識ベースを使用して構築された知識グラフのプロジェクトです。この知識グラフには、問題を増強する情報を持つエッジ（タプル）が含まれており、知識の検索や大規模モデルへのパッチ提供に使用することができます。
