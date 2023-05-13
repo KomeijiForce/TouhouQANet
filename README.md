@@ -1,4 +1,4 @@
-TouhouQANet.jsonl# 东方问答网络/東方QAネットワーク/TouhouQANet
+# 东方问答网络/東方QAネットワーク/TouhouQANet
 ![Instance](https://github.com/KomeijiForce/TouhouQANet/blob/main/instance.png)
 
 [知识图谱/知識グラフ/Knowledge Graph（TouhouQANet.jsonl）](TouhouQANet.jsonl)
