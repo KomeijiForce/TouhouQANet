@@ -21,6 +21,8 @@ In addition, this project also includes a Touhou QA test set with 125 questions,
 
 ![Main Performance](https://github.com/KomeijiForce/TouhouQANet/blob/main/Patched_LLMs.png)
 
+[抽取的实现/検索器の実現/Implementation of Retriever](https://github.com/KomeijiForce/TouhouQANet/blob/main/Patched_LLMs.png)
+
 # 统计学特征/統計情報/Statistics
 
 ![Statistics](https://github.com/KomeijiForce/TouhouQANet/blob/main/TouhouQANet_Stats.png)
